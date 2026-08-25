@@ -1,4 +1,4 @@
-# 🤖 Text-to-SQL Agent
+# 🤖 AskDB - Text-to-SQL Agent
 ### Ask questions in plain English → Get answers from a real database
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
