@@ -8,7 +8,15 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql)
 
 ---
+---
 
+## 🚀 Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kxrbm9okqs4y8jtqcpxraj.streamlit.app)
+
+**Try it live:** [LINK](https://kxrbm9okqs4y8jtqcpxraj.streamlit.app/)
+
+---
 ## 📌 What is this?
 
 A **production-style Agentic AI application** that converts natural language questions into SQL queries and returns answers from a PostgreSQL database — without writing a single line of SQL.
@@ -22,7 +30,7 @@ This project combines **Generative AI + Agentic AI + Data Engineering** in one e
 ### Chat Interface
 <!-- Add your screenshot here -->
 
-![Chat UI](sql_agent.png)
+![Chat UI](sql_agent2.png)
 
 
 
